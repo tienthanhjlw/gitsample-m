@@ -2,4 +2,4 @@
 2. Ban co the hieu duoc lenh cua git
 3. Chung ta co the hieu duoc lenh cua git
 4. Chung ta co the hieu duoc lenh cua git
-
+Add: Dang ky thay doi trong index
