@@ -4,3 +4,4 @@
 4. Chung ta co the hieu duoc lenh cua git
 Add: Dang ky thay doi trong index
 Commit: Luu lai trang thai cua index
+Pull: Lay noi dung cua remote repository
